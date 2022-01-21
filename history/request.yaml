@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: CE09OSSM-SBD12-05-WAVSSA000-telemetered-wavss_a_dcl_fourier
-last_request: '2022-01-01T02:04:29.593397Z'
+last_request: '2022-01-21T02:58:11.420553Z'
 response: https://raw.githubusercontent.com/ooi-data/CE09OSSM-SBD12-05-WAVSSA000-telemetered-wavss_a_dcl_fourier/main/history/response.json
-status: success
+status: pending
